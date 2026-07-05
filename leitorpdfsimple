@@ -1,0 +1,210 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Política de Privacidade - PDF Reader Pro</title>
+
+<style>
+body{
+    margin:0;
+    padding:0;
+    background:#f4f6f9;
+    font-family:Arial,Helvetica,sans-serif;
+    color:#333;
+    line-height:1.8;
+}
+
+.container{
+    max-width:900px;
+    margin:40px auto;
+    background:#fff;
+    padding:40px;
+    border-radius:10px;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+
+h1{
+    color:#1565C0;
+    text-align:center;
+    margin-bottom:5px;
+}
+
+.data{
+    text-align:center;
+    color:#666;
+    margin-bottom:35px;
+}
+
+h2{
+    color:#1976D2;
+    margin-top:35px;
+}
+
+ul{
+    padding-left:22px;
+}
+
+footer{
+    margin-top:50px;
+    border-top:1px solid #ddd;
+    padding-top:20px;
+    text-align:center;
+    color:#777;
+    font-size:14px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Política de Privacidade</h1>
+
+<p class="data">
+Última atualização: 04 de julho de 2026
+</p>
+
+<p>
+O <strong>PDF Reader Pro</strong> respeita a privacidade de seus usuários.
+Esta Política de Privacidade explica quais informações podem ser tratadas durante o uso do aplicativo e como elas são utilizadas.
+Ao utilizar o aplicativo, você concorda com os termos desta Política.
+</p>
+
+<h2>1. Informações Coletadas</h2>
+
+<p>
+O PDF Reader Pro foi desenvolvido para funcionar principalmente de forma local no dispositivo do usuário.
+</p>
+
+<p>Podemos coletar apenas informações técnicas necessárias para o funcionamento do aplicativo, como:</p>
+
+<ul>
+<li>Modelo do dispositivo;</li>
+<li>Versão do sistema operacional;</li>
+<li>Versão do aplicativo;</li>
+<li>Informações técnicas de desempenho e relatórios de falhas (quando disponíveis).</li>
+</ul>
+
+<p>
+<b>Os arquivos PDF permanecem exclusivamente no dispositivo do usuário.</b>
+O aplicativo não envia, armazena ou processa seus documentos PDF em servidores externos.
+</p>
+
+<h2>2. Permissões Utilizadas</h2>
+
+<p>
+O aplicativo poderá solicitar acesso ao armazenamento do dispositivo apenas para permitir que o usuário selecione, visualize e gerencie arquivos PDF existentes no aparelho.
+</p>
+
+<p>
+Nenhum arquivo é compartilhado sem ação direta do usuário.
+</p>
+
+<h2>3. Como Utilizamos as Informações</h2>
+
+<p>As informações técnicas poderão ser utilizadas para:</p>
+
+<ul>
+<li>Melhorar a estabilidade do aplicativo;</li>
+<li>Corrigir erros;</li>
+<li>Otimizar o desempenho;</li>
+<li>Garantir o correto funcionamento dos recursos oferecidos.</li>
+</ul>
+
+<h2>4. Publicidade</h2>
+
+<p>
+<b>O PDF Reader Pro não exibe anúncios.</b>
+</p>
+
+<p>
+Não utilizamos redes de publicidade nem coletamos informações para fins de marketing ou anúncios personalizados.
+</p>
+
+<h2>5. Compartilhamento de Dados</h2>
+
+<p>
+Não vendemos, alugamos ou compartilhamos informações pessoais dos usuários com terceiros.
+</p>
+
+<p>
+Os dados somente poderão ser compartilhados quando:
+</p>
+
+<ul>
+<li>Houver obrigação legal;</li>
+<li>For necessário para proteger direitos legais;</li>
+<li>For indispensável para serviços técnicos utilizados pelo aplicativo, como relatórios de falhas, quando aplicável.</li>
+</ul>
+
+<h2>6. Compras no Aplicativo</h2>
+
+<p>
+Caso o aplicativo ofereça recursos Premium ou versão Pro, todas as compras serão processadas exclusivamente pela Google Play.
+</p>
+
+<p>
+O PDF Reader Pro não coleta nem armazena informações de cartão de crédito, dados bancários ou informações financeiras dos usuários.
+</p>
+
+<h2>7. Segurança</h2>
+
+<p>
+Adotamos medidas técnicas e organizacionais para proteger as informações tratadas pelo aplicativo.
+Entretanto, nenhum sistema eletrônico é completamente seguro, motivo pelo qual não é possível garantir segurança absoluta.
+</p>
+
+<h2>8. Retenção de Dados</h2>
+
+<p>
+As informações técnicas eventualmente coletadas serão mantidas apenas pelo período necessário para melhorar o funcionamento do aplicativo ou conforme exigido pela legislação aplicável.
+</p>
+
+<h2>9. Privacidade Infantil</h2>
+
+<p>
+O PDF Reader Pro não é destinado a crianças menores de 13 anos e não coleta intencionalmente dados pessoais desse público.
+</p>
+
+<h2>10. Conformidade com a LGPD</h2>
+
+<p>
+O tratamento das informações observa os princípios da Lei Geral de Proteção de Dados (Lei nº 13.709/2018), incluindo finalidade, necessidade, transparência e segurança.
+</p>
+
+<h2>11. Alterações desta Política</h2>
+
+<p>
+Esta Política de Privacidade poderá ser atualizada periodicamente para refletir melhorias no aplicativo ou alterações legais.
+A versão mais recente estará sempre disponível na página oficial do aplicativo.
+</p>
+
+<h2>12. Contato</h2>
+
+<p>
+Caso tenha dúvidas sobre esta Política de Privacidade, entre em contato:
+</p>
+
+<p>
+<strong>E-mail:</strong> jfmichelss@gmail.com
+</p>
+
+<p>
+<strong>Responsável:</strong> JMLabs
+</p>
+
+<footer>
+
+© 2026 PDF Reader - Fast & Simple. Todos os direitos reservados.
+
+</footer>
+
+</div>
+
+</body>
+</html>
+```
